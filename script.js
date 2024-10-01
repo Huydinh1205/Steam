@@ -156,3 +156,5 @@ const getGenres = async () => {
   });
 };
 getGenres();
+
+console.log("hello");
